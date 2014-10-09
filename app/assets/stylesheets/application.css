@@ -13,6 +13,7 @@
  *= require_tree .
  *= require_self
  */
+<<<<<<< HEAD
 body{
 	background-color: #F6CEF5;
 }
@@ -20,3 +21,5 @@ table {
 	background-color:#A4A4A4;
 	border-color: black;
 }
+=======
+>>>>>>> dd22eab6b723b17872c6e3f92f5d5923fe858b3b

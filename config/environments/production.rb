@@ -32,8 +32,12 @@ Rails.application.configure do
   # Generate digests for assets URLs.
   config.assets.digest = true
 
+<<<<<<< HEAD
   # Version of your assets, change this if you want to expire all your assets.
   config.assets.version = '1.0'
+=======
+  # `config.assets.precompile` has moved to config/initializers/assets.rb
+>>>>>>> dd22eab6b723b17872c6e3f92f5d5923fe858b3b
 
   # Specifies the header that your server uses for sending files.
   # config.action_dispatch.x_sendfile_header = "X-Sendfile" # for apache
